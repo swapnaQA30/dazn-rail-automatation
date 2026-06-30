@@ -1,0 +1,11 @@
+# Allure reports (generated files)
+allure-results/
+allure-report/
+Reports/
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
